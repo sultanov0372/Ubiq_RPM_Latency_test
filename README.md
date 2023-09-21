@@ -18,6 +18,7 @@ After that, follow these steps:
 ## Usage
 You can choose one of three avatars from the catalogue  located at 'Prefabs/AvatarCatalogue1'. To change your avatar, replace 'avatarPrefab' on the 'AvatarManager' with 'RPM-Avatar2/3_Male'
 You can also create your own avatar using [Web interface](https://demo.readyplayer.me/avatar).
+
 More detailed [Instruction](https://github.com/UCL-VR/ubiq-avatars-readyplayerme).
 Note before you start that this package currently only supports 'HalfBody' avatars and don't forget to add new avatar in the catalogue.
 
