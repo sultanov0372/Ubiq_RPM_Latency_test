@@ -13,7 +13,7 @@ After that, follow these steps:
 
 ![image](https://github.com/sultanov0372/Ubiq_RPM_Latency_test/assets/60095737/435ffa1d-b0b1-4432-9ecc-f037de2403af)
 
-2. On other clients, instead of "localhost," write the IP address of the host. (The host and clients should be on the same local network.)
+2. On other clients, instead of `localhost`, write the IP address of the host. (The host and clients should be on the same local network.)
 
 ## Usage
 You can choose one of three avatars from the catalogue  located at `Prefabs/AvatarCatalogue1`. To change your avatar, replace `avatarPrefab` on the 'AvatarManager' with `RPM-Avatar2/3_Male`
