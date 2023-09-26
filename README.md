@@ -23,4 +23,4 @@ More information [here](https://github.com/UCL-VR/ubiq-avatars-readyplayerme).
 ## Useful links
 - [Ubiq docs](https://ucl-vr.github.io/ubiq/)
 - [Environment](https://assetstore.unity.com/packages/3d/environments/urban/pixel-modern-office-extras-225670)
-- - [Ready Player Me avaters](https://readyplayer.me/)
+- [Ready Player Me avaters](https://readyplayer.me/)
