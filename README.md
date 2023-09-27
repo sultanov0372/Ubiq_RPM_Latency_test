@@ -1,7 +1,7 @@
 # Ubiq RPM Latency test
 ## Overview
 In this repository, I have created a social VR scene using networking library [Ubiq](https://github.com/UCL-VR/ubiq) to facilitate virtual meetings and events. It also uses Ready Player Me (Half body) avatars [implementation](https://github.com/UCL-VR/ubiq-avatars-readyplayerme) by UCL-VR.
-The primary purpose of this project is to serve as a platform for conducting latency tests in VR environments (Work in progress).
+The primary purpose of this project is to serve as a platform for conducting latency tests in VR environments (Work in progress). This project was created with Unity version 2021.3.3f1
 
 ## Getting Started
 The main scene is located at Scenes/Ubiq_office
